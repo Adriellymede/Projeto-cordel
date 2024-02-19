@@ -22,7 +22,7 @@ header{
     background-color: black;
     color: white;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 50px;
     padding-bottom: 40px;
     
    
@@ -38,8 +38,8 @@ header>h1{
 }
 header > p{
     font-family: var(--fonte1);
-    font-size: 4.5em;
-    padding-bottom: 80px;
+    font-size: 20px;
+    padding-bottom: 40px;
   
 
 }
